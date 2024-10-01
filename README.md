@@ -10,10 +10,15 @@ Before I've learned about [Reverse Polish Notation](https://en.wikipedia.org/wik
 ## Program example
 ![my program result](pictures/my_prog.png)
 
-Compare it to some widely used graph plotter like [this](https://www.geogebra.org/graphing)
+Compare it to some widely used function plotter like [this](https://www.geogebra.org/graphing)
 
 ![some online program result](pictures/other_prog.png)
 
+The plotted function:
+
+> $$
+f(x) = {{\cos(x)}^2}^{x^2}
+$$
 ## The idea
 The idea is pretty easy and pretty stupid, but recalling the old programming adage:
 > "if it's stupid and it works - it isn't stupid".
