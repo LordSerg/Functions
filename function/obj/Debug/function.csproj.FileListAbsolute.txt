@@ -1,9 +1,0 @@
-D:\Programmation\function\function\bin\Debug\function.exe.config
-D:\Programmation\function\function\obj\Debug\function.csprojResolveAssemblyReference.cache
-D:\Programmation\function\function\obj\Debug\function.Form1.resources
-D:\Programmation\function\function\obj\Debug\function.Properties.Resources.resources
-D:\Programmation\function\function\obj\Debug\function.csproj.GenerateResource.Cache
-D:\Programmation\function\function\bin\Debug\function.exe
-D:\Programmation\function\function\bin\Debug\function.pdb
-D:\Programmation\function\function\obj\Debug\function.exe
-D:\Programmation\function\function\obj\Debug\function.pdb

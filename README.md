@@ -8,11 +8,11 @@ In program I realised my own function reading algorithm and display this functio
 Before I've learned about [Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) I managed to make my own software implementation of the function reader.
 
 ## Program example
-![]()
+![my program result](pictures/my_prog.png)
 
 Compare it to some widely used graph plotter like [this](https://www.geogebra.org/graphing)
 
-![]()
+![some online program result](pictures/other_prog.png)
 
 ## The idea
 The idea is pretty easy and pretty stupid, but recalling the old programming adage:
